@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  URL: 'https://payrush247.com/public/api/admin', // Change only the domain part, keeping "/api/admin" intact
-  storageURL: 'https://payrush247.com/public'  // change only the laravel primary domain
+  URL: 'https://nixopay.com/public/api/admin', // Change only the domain part, keeping "/api/admin" intact
+  storageURL: 'https://nixopay.com/public'  // change only the laravel primary domain
 };
 
 /*
